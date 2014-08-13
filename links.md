@@ -1,4 +1,4 @@
-## Course Websites:
+### Course Websites
 
 [Fall 2011](http://courses.csail.mit.edu/PPAT/fall2011/index.html)
 
